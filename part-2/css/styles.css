@@ -27,3 +27,24 @@ figure {
   width: 50%;
   margin: 40px auto;
 }
+
+img {
+    float: left;
+    width: 200px;
+}
+
+.film-details {
+    display: inline-block;
+}
+
+figure.film-poster {
+    float: left;
+    position: absolute;
+}
+
+i.fa.fa-2x.fa-clock-o {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    color: red;
+}
