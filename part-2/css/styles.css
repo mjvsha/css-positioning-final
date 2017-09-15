@@ -45,5 +45,15 @@ i.fa.fa-2x.fa-clock-o {
     position: absolute;
     right: 5px;
     top: 5px;
-    color: red;
+
+}
+
+i {
+  color: red;
+}
+
+article.film {
+    border: 0.005rem solid #bcc0c6;
+    padding: 25px 15px;
+    height: 350px;
 }
