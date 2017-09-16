@@ -56,4 +56,24 @@ article.film {
     border: 0.005rem solid #bcc0c6;
     padding: 25px 15px;
     height: 350px;
+    position: relative;
+}
+
+
+i.fa.fa-lg.fa-heart {
+    position: absolute;
+    left: 580px;
+    top: 300px;
+}
+
+i.fa.fa-lg.fa-bookmark {
+    position: absolute;
+    left: 610px;
+    top:  300px;
+}
+
+i.fa.fa-lg.fa-star {
+    position: absolute;
+    left: 635px;
+    top: 300px;
 }
